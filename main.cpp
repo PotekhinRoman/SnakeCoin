@@ -10,7 +10,7 @@
 using namespace sf;
 int main()
 {
-	RenderWindow window(VideoMode(810, 660), "SnakeCoin_v2");
+	RenderWindow window(VideoMode(810, 660), "SnakeCoin_alpha by Potekhin Roman");
 	view.reset(FloatRect(0, 0, 810, 660));
 	window.setFramerateLimit(10);
 	////////////////////////////////////////////////
